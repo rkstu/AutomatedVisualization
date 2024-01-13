@@ -1,4 +1,4 @@
-# JSON to DataFrame Converter
+# JSON to Tabular Converter
 
 This Python script demonstrates how to read data from a JSON file, convert it to a dictionary, and then transform it into a Pandas DataFrame. The resulting DataFrame is styled and exported as an image.
 
